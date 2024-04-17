@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name Israel Olatunbosun, A backend Student in Zuri Academy.
+Currently in Nodejs track.
+
 <!--
 **easyrael/easyrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
